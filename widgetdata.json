@@ -1,0 +1,14 @@
+{
+    "destinationServiceArea": {
+    	"serviceAreaId": 21,
+    	"serviceAreaName": "Dubai",
+    	"imageUrl": "https://d38u9oz3paqtrh.cloudfront.net/images/cities/AbuDhabi.jpg",
+    	"currency": "AED"
+    },
+    "customerCarType": {
+    	"customerCarTypeId": 123,
+    	"allowedForNow": true,
+    	"allowedForLater": true
+    },
+    "startingPrice": 400
+}
