@@ -1,14 +1,17 @@
 {
-    "destinationServiceArea": {
-    	"serviceAreaId": 21,
-    	"serviceAreaName": "Dubai",
-    	"imageUrl": "https://d38u9oz3paqtrh.cloudfront.net/images/cities/AbuDhabi.jpg",
-    	"currency": "AED"
-    },
-    "customerCarType": {
-    	"customerCarTypeId": 123,
-    	"allowedForNow": true,
-    	"allowedForLater": true
-    },
-    "startingPrice": 400
+    "data": {
+        "destination": {
+            "Id": 1,
+            "ServiceAreaId": 1,
+            "Name": "Dubai",
+            "ImageUrl": "https://d38u9oz3paqtrh.cloudfront.net/images/cities/Dubai.png",
+            "Currency": "AED"
+        },
+        "customerCarType": {
+            "Id": 1,
+            "AllowedForNow": true,
+            "AllowedForLater": true
+        },
+        "startingPrice": 300
+    }
 }
