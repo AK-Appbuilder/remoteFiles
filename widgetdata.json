@@ -1,15 +1,15 @@
 {
     "customerCarType": {
-        "AllowedForLater": true,
-        "AllowedForNow": true,
-        "Id": 1
+        "allowedForLater": true,
+        "allowedForNow": true,
+        "id": 1
     },
     "destination": {
-        "Currency": "AED",
-        "Id": 1,
-        "ImageUrl": "https://d38u9oz3paqtrh.cloudfront.net/images/cities/Dubai.png",
-        "Name": "Dubai",
-        "ServiceAreaId": 1
+        "currency": "AED",
+        "id": 1,
+        "imageUrl": "https://d38u9oz3paqtrh.cloudfront.net/images/cities/Dubai.png",
+        "name": "Dubai",
+        "serviceAreaId": 1
     },
     "startingPrice": 300
 }
