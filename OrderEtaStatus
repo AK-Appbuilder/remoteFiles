@@ -1,6 +1,6 @@
 {
   "orderId": 101,
-  "status": "packed",
+  "status": "completed",
   "schedule": false,
   "deliveryETA": 1604427728250,
   "liveTracking": true,
